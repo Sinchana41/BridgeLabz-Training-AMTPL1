@@ -17,7 +17,7 @@ namespace MultithreadingPrograms
                 Console.WriteLine(" object oriented programming language");
             }
         }
-
+        /*
         static void Main()
         {
             /*
@@ -26,7 +26,7 @@ namespace MultithreadingPrograms
             threadLocking.Display();
             threadLocking.Display();
             */
-
+/*
             ThreadLocking obj = new ThreadLocking();
             Thread t1 = new Thread(obj.Display);
             Thread t2 = new Thread(obj.Display);
@@ -72,6 +72,6 @@ namespace MultithreadingPrograms
                 }
             }
         }
-
+        */
     }
 }
